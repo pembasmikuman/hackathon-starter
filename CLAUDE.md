@@ -1,4 +1,4 @@
-# ARCHITECTURE.md
+# CLAUDE.md
 
 ## Overview
 
